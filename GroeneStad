@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Edge Building, Amsterdam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>The Edge Building</h1>
+        <p>Amsterdam, Netherlands</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About The Edge</h2>
+            <p>The Edge is a modern office building located in the Zuidas business district of Amsterdam. It is known for its innovative and sustainable design.</p>
+            <p>Features include:</p>
+            <ul>
+                <li>Energy-efficient design</li>
+                <li>Solar panels</li>
+                <li>Smart LED lighting</li>
+                <li>Underfloor heating and cooling</li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The Edge Building</p>
+    </footer>
+</body>
+</html>
