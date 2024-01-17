@@ -1,0 +1,56 @@
+main {
+    font-family: Comic;
+    margin: 0;
+    padding: 0;
+    background-color: #cdecd1;
+    color: #333;
+}
+
+header {
+    background-color: #006400;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    position: relative; 
+}
+
+#logo {
+    max-width: 100%; 
+    height: auto; 
+    position: absolute; 
+    left: 1em; 
+    top: 1.7em; 
+}
+
+nav {
+    background-color: #008000;
+    padding: 1em;
+    text-align: center;
+    color: white;
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+h1 {
+    color:aliceblue;
+}
+h2 {
+    color: #006400;
+}
+
+p {
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #006400;
+    padding: 1em;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
