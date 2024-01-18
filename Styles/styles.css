@@ -1,13 +1,13 @@
 main {
-    font-family: Comic;
+    font-family: comic;
     margin: 0;
     padding: 0;
-    background-color: #cdecd1;
+    background-color: #90EE90;
     color: #333;
 }
 
 header {
-    background-color: #006400;
+    background-color: #059033;
     padding: 10px;
     text-align: center;
     color: white;
@@ -23,7 +23,7 @@ header {
 }
 
 nav {
-    background-color: #008000;
+    background-color: #087830;
     padding: 1em;
     text-align: center;
     color: white;
@@ -36,9 +36,10 @@ section {
 
 h1 {
     color:aliceblue;
+    font-family: greenwings demo;
 }
 h2 {
-    color: #006400;
+    color: #087830;
 }
 
 p {
@@ -46,7 +47,7 @@ p {
 }
 
 footer {
-    background-color: #006400;
+    background-color: #087830;
     padding: 1em;
     text-align: center;
     color: white;
